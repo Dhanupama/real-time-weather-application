@@ -1,4 +1,4 @@
-const apiKey ="86f7d16055afb8919befe810041953a3";
+const apiKey ="086f7d16055afb8919befe810041953a3000";
 const apiUrl ="https://api.openweathermap.org/data/2.5/weather?&units=metric&q=colombo";
 
 const searchBox = document.querySelector(" .search input");
